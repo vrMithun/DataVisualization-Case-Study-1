@@ -1,0 +1,29 @@
+1. To what extent did the Green Revolution contribute to India’s rise in life expectancy?
+Analyze the timeline of increased food production alongside improvements in life expectancy to assess correlation.
+
+2. Did health indicators (like infant mortality rate) begin improving significantly after the onset of the Green Revolution?
+Compare infant mortality trends before and after 1965 to detect potential health benefits.
+
+3. How did improvements in food grain production affect the affordability of essential food items?
+Use CPI and income data to analyze if food became more economically accessible.
+
+4. Was the nutritional quality of the Indian diet significantly enhanced by the Green Revolution?
+Go beyond calories — analyze availability of proteins, milk, eggs, etc., and nutritional adequacy over time.
+
+5. Did life expectancy increase equally across socioeconomic groups, or was the Green Revolution’s impact unequal?
+Use proxies like per capita income or CPI to explore if benefits were inclusive.
+
+6. Is there a time-lag relationship between the increase in food production and improvements in life expectancy?
+Investigate whether health outcomes improved immediately or gradually following food gains.
+
+7. Did India’s experience with food-led lifespan growth differ from other developing nations without a Green Revolution?
+Compare India’s life expectancy trend with nations like Bangladesh or Pakistan.
+
+8. Is there evidence that scientific methods (hybrid seeds, fertilizers) used in the Green Revolution caused unintended health or environmental risks?
+Introduce arguments based on secondary sources, even if not fully backed by dataset.
+
+9. How do public narratives around the Green Revolution (as a ‘lifesaver’) align with actual health and nutrition data?
+Compare popular claims vs. data-backed findings. A critical thinking question.
+
+10. Has India’s rising life expectancy come at the cost of environmental or nutritional trade-offs?
+Discuss whether the quantity of food overshadowed quality or sustainability.
