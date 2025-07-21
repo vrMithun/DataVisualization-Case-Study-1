@@ -1,0 +1,22 @@
+Life Expectancy – India & Other Countries
+🔗 https://ourworldindata.org/life-expectancy
+🔗 https://globaldatalab.org/shdi/download/lifexp/IND/?levels=4
+
+Food Grain Production – India (Pre & Post Green Revolution)
+🔗 https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population
+(Look for “All-India Area, Production & Yield of Food Grains”)
+
+Infant Mortality Rate – India
+🔗https://www.macrotrends.net/global-metrics/countries/ind/india/infant-mortality-rate
+
+Protein & Nutrient Supply – FAOSTAT (Food Balance Sheets)
+🔗 https://ourworldindata.org/food-supply
+
+ICMR‑NIN Nutrition Reports (India)
+🔗 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175554
+
+Food Affordability – India (Consumer Price Index, CPI)
+🔗 https://data.worldbank.org/indicator/FP.CPI.TOTL?locations=IN
+
+GDP Percapita income - India
+🔗 https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IN
