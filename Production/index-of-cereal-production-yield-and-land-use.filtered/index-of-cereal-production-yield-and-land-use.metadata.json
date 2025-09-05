@@ -1,0 +1,86 @@
+{
+  "chart": {
+    "title": "Change in cereal production, yield, land use and population",
+    "subtitle": "All figures are indexed to the start year of the timeline. This means the first year of the time-series is given the value zero.",
+    "citation": "Food and Agriculture Organization of the United Nations (2025); HYDE (2023); Gapminder (2022); UN WPP (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/index-of-cereal-production-yield-and-land-use?country=~IND&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Cereals | 00001717 || Area harvested | 005312 || hectares": {
+      "titleShort": "Land used for cereal production",
+      "titleLong": "Land used for cereal production - FAO",
+      "descriptionShort": "Cereals include wheat, rice, maize, barley, oats, rye, millet, sorghum, buckwheat, and mixed grains.",
+      "shortUnit": "ha",
+      "unit": "hectares",
+      "timespan": "1961-2023",
+      "type": "Integer",
+      "owidVariableId": 1018288,
+      "shortName": "cereals__00001717__area_harvested__005312__hectares",
+      "lastUpdated": "2025-03-17",
+      "nextUpdate": "2026-03-17",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Land used for cereal production – FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1018288.metadata.json"
+    },
+    "Cereals | 00001717 || Production | 005510 || tonnes": {
+      "titleShort": "Cereal production",
+      "titleLong": "Cereal production - FAO",
+      "descriptionShort": "Cereals include wheat, rice, maize, barley, oats, rye, millet, sorghum, buckwheat, and mixed grains.",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1961-2023",
+      "type": "Numeric",
+      "owidVariableId": 1018290,
+      "shortName": "cereals__00001717__production__005510__tonnes",
+      "lastUpdated": "2025-03-17",
+      "nextUpdate": "2026-03-17",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Cereal production – FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1018290.metadata.json"
+    },
+    "Cereals | 00001717 || Yield | 005412 || tonnes per hectare": {
+      "titleShort": "Cereal yields",
+      "titleLong": "Cereal yields - FAO",
+      "descriptionShort": "Measured in tonnes per hectare.",
+      "descriptionKey": [
+        "Cereals include wheat, rice, maize, barley, oats, rye, millet, sorghum, buckwheat, and mixed grains."
+      ],
+      "shortUnit": "t/ha",
+      "unit": "tonnes per hectare",
+      "timespan": "1961-2023",
+      "type": "Numeric",
+      "conversionFactor": 1,
+      "owidVariableId": 1018292,
+      "shortName": "cereals__00001717__yield__005412__tonnes_per_hectare",
+      "lastUpdated": "2025-03-17",
+      "nextUpdate": "2026-03-17",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Cereal yields – FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1018292.metadata.json"
+    },
+    "Population (historical)": {
+      "titleShort": "Population",
+      "titleLong": "Population",
+      "descriptionShort": "Population by country, available from 10,000 BCE to 2023, based on data and estimates from different sources.",
+      "descriptionProcessing": "The population data is constructed by combining data from multiple sources:\n\n- 10,000 BCE - 1799: Historical estimates by HYDE (v3.3).\n\n- 1800 - 1949: Historical estimates by Gapminder (v7).\n\n- 1950-2023: Population records by the UN World Population Prospects (2024 revision).",
+      "shortUnit": "",
+      "unit": "people",
+      "timespan": "-10000-2023",
+      "type": "Integer",
+      "owidVariableId": 953903,
+      "shortName": "population_historical",
+      "lastUpdated": "2024-07-15",
+      "nextUpdate": "2026-07-15",
+      "citationShort": "HYDE (2023); Gapminder (2022); UN WPP (2024) – with major processing by Our World in Data",
+      "citationLong": "HYDE (2023); Gapminder (2022); UN WPP (2024) – with major processing by Our World in Data. “Population” [dataset]. PBL Netherlands Environmental Assessment Agency, “History Database of the Global Environment 3.3”; Gapminder, “Population v7”; United Nations, “World Population Prospects”; Gapminder, “Systema Globalis” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/953903.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-07-17",
+  "activeFilters": {
+    "country": "~IND"
+  }
+}
