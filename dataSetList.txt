@@ -20,3 +20,9 @@ Food Affordability – India (Consumer Price Index, CPI)
 
 GDP Percapita income - India
 🔗 https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IN
+
+Ground Water resource - India
+🔗 https://webapps.bgs.ac.uk/services/ngdc/accessions/index.html#item167240
+
+Fertilizer Consumption - India
+🔗 https://data.worldbank.org/indicator/AG.CON.FERT.PT.ZS?locations=IN
