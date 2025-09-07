@@ -39,6 +39,8 @@ To understand whether the **Green Revolution**, which transformed India's agricu
 
 9. **How do public narratives around the Green Revolution (as a ‘lifesaver’) align with actual health and nutrition data?**
    Compared popular claims vs. data-backed findings. A critical thinking question.
+
+10.** How did the Green Revolution’s agricultural changes influence rural employment patterns in India?**
 ---
 
 ## 🛠️ Approach
