@@ -27,3 +27,5 @@ Compare popular claims vs. data-backed findings. A critical thinking question.
 
 10. Has India’s rising life expectancy come at the cost of environmental or nutritional trade-offs?
 Discuss whether the quantity of food overshadowed quality or sustainability.
+
+10. How did the Green Revolution’s agricultural changes influence rural employment patterns in India?
