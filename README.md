@@ -26,8 +26,19 @@ To understand whether the **Green Revolution**, which transformed India's agricu
    We analyzed not just calorie availability but also trends in proteins, milk, eggs, and other key nutrients.
 
 5. **Did life expectancy increase equally across socioeconomic groups, or was the Green Revolution’s impact unequal?**  
-   Using indicators like regional data, we examined whether benefits were fairly distributed.
+   Using indicators like regional data, we examined whether benefits were fairly distributed.**
+   
+6. **Is there a time-lag relationship between the increase in food production and improvements in life expectancy?**
+   Investigated whether health outcomes improved immediately or gradually following food gains.
 
+7. **Did India’s experience with food-led lifespan growth differ from other developing nations without a Green Revolution?**
+   Compared India’s life expectancy trend with nations like Bangladesh or Pakistan.
+
+8. **Is there evidence that scientific methods (hybrid seeds, fertilizers) used in the Green Revolution caused unintended health or environmental risks?**
+   Introduced arguments based on secondary sources, even if not fully backed by dataset.
+
+9. **How do public narratives around the Green Revolution (as a ‘lifesaver’) align with actual health and nutrition data?**
+   Compared popular claims vs. data-backed findings. A critical thinking question.
 ---
 
 ## 🛠️ Approach
